@@ -64,9 +64,9 @@ The insights derived from this analysis can guide strategic actions to enhance t
       <li>Provide pre-stay services and communication to increase customer satisfaction and reduce cancellations.</li>
     </ul>
   </li>
-</ol>
 
-  <li>Reducing Lead Time Impact:
+
+  <li>Reducing Lead Time Impact:</li>
     <ul>
       <li>Limit booking lead time to ensure customers are more certain about their stay.</li>
       <li>Consider adjusting room prices to improve profit margins and decrease cancellation rates.</li>
