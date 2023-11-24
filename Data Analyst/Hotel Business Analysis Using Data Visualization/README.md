@@ -40,30 +40,42 @@ Create data-based visualizations to gain insights for the hotel business.
 </ol>
 <p> </p>
 <h3>Action and Value</h3>
-<ul>
-  <li>The insights derived from this analysis can guide strategic actions to enhance the hotel business:</li>
-  <ul>
-    <li>Optimizing Hotel Facilities and Services:</li>
-    <ol>
+The insights derived from this analysis can guide strategic actions to enhance the hotel business:
+<ol>
+  <li>Optimizing Hotel Facilities and Services:
+    <ul>
       <li>For Resort Hotels with lower booking rates, consider enhancing facilities such as spa, gym, or swimming pools to attract more customers.</li>
       <li>Personalized and friendly services can improve customer satisfaction.</li>
-    </ol>
-    <li>Strategic Marketing for City Hotels:</li>
-    <ol>
+    </ul>
+  </li>
+</ol>
+
+<ol>
+  <li>Strategic Marketing for City Hotels:
+    <ul>
       <li>Implement additional services tailored to business needs, such as meeting packages or conference rooms.</li>
       <li>Utilize promotions during holiday seasons to boost bookings and revenue.</li>
-    </ol>
-    <li>Managing Cancellation Rates:</li>
-    <ol>
+    </ul>
+  </li>
+</ol>
+
+<ol>
+  <li>Managing Cancellation Rates:
+    <ul>
       <li>Establish solid cancellation policies to protect against revenue loss.</li>
       <li>Consider implementing a flexible pricing strategy, limiting flexible rates to a one-week stay and offering non-refundable rates for longer durations.</li>
       <li>Provide pre-stay services and communication to increase customer satisfaction and reduce cancellations.</li>
-    </ol>
-    <li>Reducing Lead Time Impact:</li>
-    <ol>
+    </ul>
+  </li>
+</ol>
+
+<ol>
+  <li>Reducing Lead Time Impact:
+    <ul>
       <li>Limit booking lead time to ensure customers are more certain about their stay.</li>
       <li>Consider adjusting room prices to improve profit margins and decrease cancellation rates.</li>
       <li>Implement reminder emails to guests approaching their stay, improving customer engagement and potentially reducing cancellations.</li>
-    </ol>
-  </ul>
-</ul>
+    </ul>
+  </li>
+</ol>
+
