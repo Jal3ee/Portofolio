@@ -41,3 +41,21 @@ Create data-based visualizations to gain insights for the hotel business.
 <p> </p>
 <h3>Action and Value</h3>
 The insights derived from this analysis can guide strategic actions to enhance the hotel business:
+Optimizing Hotel Facilities and Services:
+
+For Resort Hotels with lower booking rates, consider enhancing facilities such as spa, gym, or swimming pools to attract more customers.
+Personalized and friendly services can improve customer satisfaction.
+Strategic Marketing for City Hotels:
+
+Implement additional services tailored to business needs, such as meeting packages or conference rooms.
+Utilize promotions during holiday seasons to boost bookings and revenue.
+Managing Cancellation Rates:
+
+Establish solid cancellation policies to protect against revenue loss.
+Consider implementing a flexible pricing strategy, limiting flexible rates to a one-week stay and offering non-refundable rates for longer durations.
+Provide pre-stay services and communication to increase customer satisfaction and reduce cancellations.
+Reducing Lead Time Impact:
+
+Limit booking lead time to ensure customers are more certain about their stay.
+Consider adjusting room prices to improve profit margins and decrease cancellation rates.
+Implement reminder emails to guests approaching their stay, improving customer engagement and potentially reducing cancellations.
