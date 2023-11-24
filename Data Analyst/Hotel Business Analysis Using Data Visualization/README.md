@@ -48,18 +48,15 @@ The insights derived from this analysis can guide strategic actions to enhance t
       <li>Personalized and friendly services can improve customer satisfaction.</li>
     </ul>
   </li>
-</ol>
 
-<ol>
+
   <li>Strategic Marketing for City Hotels:
     <ul>
       <li>Implement additional services tailored to business needs, such as meeting packages or conference rooms.</li>
       <li>Utilize promotions during holiday seasons to boost bookings and revenue.</li>
     </ul>
   </li>
-</ol>
 
-<ol>
   <li>Managing Cancellation Rates:
     <ul>
       <li>Establish solid cancellation policies to protect against revenue loss.</li>
@@ -69,7 +66,6 @@ The insights derived from this analysis can guide strategic actions to enhance t
   </li>
 </ol>
 
-<ol>
   <li>Reducing Lead Time Impact:
     <ul>
       <li>Limit booking lead time to ensure customers are more certain about their stay.</li>
