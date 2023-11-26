@@ -90,7 +90,7 @@ In the **January - March** period, hotel booking rates are **lowest**. This is l
 <br>
 
 
-### 2. Impact Analysis of Stay Duration on Hotel Bookings Cancellation Rates
+<h4> 2. Impact Analysis of Stay Duration on Hotel Bookings Cancellation Rates</h4>
 This analysis focuses on the relationship between the duration of stay and the cancellation rates of hotel bookings. According to data, approximately **19%** of hotel bookings made online are canceled before the customers arrive  [[source](https://www.phocuswire.com/One-in-five-hotel-bookings-on-the-web-are-cancelled)]. These cancellations can reduce room availability and impact hotel revenue because every empty room can be a financial burden for that day. Additionally, if a hotel uses an Online Travel Agency (OTA), these cancellation rates can affect the hotel's ranking in search results [[source](https://www.hotelminder.com/everything-you-need-to-know-about-hotel-cancellations)].
 
 <p align="center">
@@ -122,7 +122,7 @@ The reason behind the increasing cancellation rate with longer stays could be ev
 
 
 
-### 3. Impact Analysis of Lead Time on Hotel Bookings Cancellation Rates
+<h4> 3. Impact Analysis of Lead Time on Hotel Bookings Cancellation Rates</h4>
 
 The analysis is conducted to understand the correlation between reservation cancellations and lead time. Lead time is the waiting period or the time gap between hotel booking and the arrival date.
 
