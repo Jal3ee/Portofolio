@@ -42,7 +42,7 @@ Create data-based visualizations to gain insights for the hotel business.
 <h3>Preprocessing, Analyzing and Visualization</h3>
 <ol>
   <li>Data Preprocessing</li>
-  ### Data Overview
+<h4>Data Overview</h4>
 The dataset consists of 29 columns and 119,390 rows covering the period from 2017 to 2019.
 
 ### Data Assessment
@@ -62,8 +62,8 @@ Anomalous or unnecessary data | - Negative and significantly distant outlier val
 <br>
 <br>
 <li>Data Analyzing and Visualization</li>
-### 1. Monthly Hotel Booking Analysis Based on Hotel Type
-This analysis aims to discern booking trends for each hotel type. It can assist the company **in better understanding the market and customer needs, enabling them to enhance operational efficiency and optimize revenue.**
+<h4> 1. Monthly Hotel Booking Analysis Based on Hotel Type</h4>
+This analysis aims to discern booking trends for each hotel type. It can assist the company in better understanding the market and customer needs, enabling them to enhance operational efficiency and optimize revenue.
 
 <p align="center">
     <kbd><img width="600" alt="tipe hotel rasio" src="https://user-images.githubusercontent.com/115857221/230533333-0f148859-0edf-4baf-bfb6-18fcbe71d699.png"></kbd><br>
