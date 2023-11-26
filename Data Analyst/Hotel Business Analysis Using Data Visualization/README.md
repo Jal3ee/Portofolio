@@ -3,8 +3,8 @@
 Business performance analysis is crucial for companies to achieve success. In the hotel industry, understanding customer behavior is essential. Analyzing customer behavior helps identify factors influencing hotel bookings and enables businesses to adapt strategies to enhance customer experience and achieve long-term business goals.
 <p> </p>
 <h3>Problem Identification</h3>
-1. What types of hotels are most frequently visited by customers?
-2. Does the duration of stay affect hotel booking cancellation rates?
+1. What types of hotels are most frequently visited by customers?<br>
+2. Does the duration of stay affect hotel booking cancellation rates?<br>
 3. Does the lead time between hotel booking and guest arrival affect hotel booking cancellation rates?
 <p> </p>
 <h3>Business Objectives</h3>
