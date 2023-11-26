@@ -178,12 +178,14 @@ The insights derived from this analysis can guide strategic actions to enhance t
 </ol>
 
 <h3>Results and Evaluation</h3>
+
 1. Overall, City Hotels are the most frequently booked by customers. Significant increases in customer bookings occur during holiday seasons, namely May-July and October-December, for both hotel types. Business recommendations:
     
-   - The company can optimize facilities and services at Resort Hotels since they have lower booking rates compared to City Hotels. Enhancing facilities like spas, gyms, or swimming pools and providing more personalized and friendly services can attract more customers to book rooms there.
+    - The company can optimize facilities and services at Resort Hotels since they have lower booking rates compared to City Hotels. Enhancing facilities like spas, gyms, or swimming pools and providing more personalized and friendly services can attract more customers to book rooms there.
     - Maximizing strategies for City Hotels, given their high popularity, can be profitable. Additional services for business purposes, such as meeting rooms or packages for events like seminars, can be offered.
     - Increasing promotions during holiday seasons, such as providing special discounts for guests booking a certain number of rooms or offering attractive vacation packages. The company may also consider implementing non-refundable policies to prevent booking cancellations.
-    - During off-peak seasons, the company can combine flexible and non-refundable rates or offer special discounts with non-refundable conditions. <br>
+    - During off-peak seasons, the company can combine flexible and non-refundable rates or offer special discounts with non-refundable conditions. 
+    <br>
     <br>
 2. Cancellation rates tend to increase with the length of stay for both hotel types. The cancellation rate at City Hotels significantly rises, with the lowest percentage for durations less than one week. Resort Hotels also experience an increasing cancellation rate, but it tends to be more stable. Recommendations for business:
 
