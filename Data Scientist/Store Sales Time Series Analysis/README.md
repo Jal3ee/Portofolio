@@ -1,14 +1,14 @@
-<h1>Investigate Hotel Business using Data Visualization</h1>
+<h1>Store Sales Corporación Favorita - Forecasting</h1>
 <h3>Background</h3>
-Business performance analysis is crucial for companies to achieve success. In the hotel industry, understanding customer behavior is essential. Analyzing customer behavior helps identify factors influencing hotel bookings and enables businesses to adapt strategies to enhance customer experience and achieve long-term business goals.
+Favorita Corporation and its commercial, industrial and real estate subsidiaries have a strong presence throughout the country. Its different lines of business and formats allows us to adapt our products, services and experiences offering to the local realities, according to your needs. Internationally, the Corporation’s subsidiaries have activities in six countries in the region, in addition to the ones in Ecuador.
 <p> </p>
 <h3>Problem Identification</h3>
 1. What types of hotels are most frequently visited by customers?<br>
 2. Does the duration of stay affect hotel booking cancellation rates?<br>
-3. Does the lead time between hotel booking and guest arrival affect hotel booking cancellation rates?
+3. Predicting sales for each product family and store combinations.
 <p> </p>
 <h3>Business Objectives</h3>
-Create data-based visualizations to gain insights for the hotel business.
+Create model forecasting to predicting sales for each product family and store combinations.
 <p> </p>
 <h3>Tools</h3>
 <ul>
