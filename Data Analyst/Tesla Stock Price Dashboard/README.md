@@ -7,5 +7,5 @@ Tesla, an American electric vehicle, and clean energy company, has a significant
 2. Create visualization of average monthly Tesla's stock price, daily closing figures and volume of stock traded<br>
 <p> </p>
 <h3>Business Objectives</h3>
-Create data-based visualizations to gain insights for the Tesla's stock price.
+Create dashboard to gain insights for the Tesla's stock price.
 <p> </p>
