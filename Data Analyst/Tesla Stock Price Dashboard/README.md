@@ -9,5 +9,5 @@ Tesla, an American electric vehicle, and clean energy company, has a significant
 <h3>Business Objectives</h3>
 Create dashboard to gain insights for the Tesla's stock price.
 <p> </p>
-### Dashboard
+<h3>Dasboard</h3>
 <img src="https://github.com/Jal3ee/Portofolio/blob/main/Data%20Analyst/Tesla%20Stock%20Price%20Dashboard/Images/Tesla%20Analytics%20Image.PNG" alt="dashboard"/>
