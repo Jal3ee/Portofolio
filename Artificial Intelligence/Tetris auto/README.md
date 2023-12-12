@@ -5,9 +5,7 @@ A bot that plays [tetris](https://en.wikipedia.org/wiki/Tetris) using deep reinf
 ## Demo
 
 First 10000 points, after some training.
-
-![](https://github.com/Jal3ee/Portofolio/blob/main/ArtificialIntelligence/Tetrisauto/demo.gif)
-Demo - First 10000 points
+![Demo - First 10000 points](./demo.gif)
 
 ## How does it work
 
