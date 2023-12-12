@@ -1,4 +1,4 @@
-# tetris-ai
+### Tetris Auto
 
 A bot that plays [tetris](https://en.wikipedia.org/wiki/Tetris) using deep reinforcement learning.
 
@@ -6,7 +6,7 @@ A bot that plays [tetris](https://en.wikipedia.org/wiki/Tetris) using deep reinf
 
 First 10000 points, after some training.
 
-![Demo - First 10000 points](./demo.gif)
+![Demo - First 10000 points](/demo.gif)
 
 
 ## How does it work
